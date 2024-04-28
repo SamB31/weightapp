@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weight App</string>
+    <string name="greeting_message">Hello, %1$s!</string>
+    <string name="name_error">You must enter a name</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+
+</resources>
